@@ -1,0 +1,11 @@
+Image Number,Actual Class,Predicted Class,Confidence (%)
+5,buildings,mountain,49.53
+63,buildings,street,88.66
+77,buildings,street,61.42
+85,buildings,street,78.06
+86,buildings,street,98.98
+88,buildings,street,100.0
+93,buildings,street,89.76
+119,buildings,street,58.94
+153,buildings,street,86.81
+163,buildings,street,61.08
